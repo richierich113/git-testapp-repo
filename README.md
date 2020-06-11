@@ -1,2 +1,2 @@
 # git-testapp-repo
-single activity app with a button to open facebook page using a browser
+This is a single activity app with a button to open facebook page using a third party web browser.
